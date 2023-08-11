@@ -17,9 +17,7 @@ Program utilises the Windows's API (WIN32/WIN64) to display a window with two bu
 <b>G++:</b> Compiler for program
 
 ## Demo Video
-<div style="display: flex; justify-content: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/YkuXCTYdztc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen alt="Youtube video of the project"></iframe>
-</div>
+YouTube Link to video: https://www.youtube.com/embed/YkuXCTYdztc
 
 ## Newly acquired expertise from project
 - Windows's API (Win32/Win64) Functions and implementation at low level
